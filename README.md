@@ -1,1 +1,1 @@
-# LGM-WEB-TASK-2
+# LGMVIPTask2
